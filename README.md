@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Webrtc , Redis**
 
-- 💬 Ask me about **MERN, PERN , Tailwind CSS , Typescript , Javascript**
+- 💬 Ask me about **MERN, PERN , Tailwind CSS , Typescript , Javascript , Websockets ,WebRTC , Devops**
 
-- 📫 Reach me on **satyamshukla4916@gmail.com**
+- 📫 Reach me on **satyamofficial4916@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
