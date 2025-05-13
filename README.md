@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Shukla</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
-- 🔭 Seeking Open-Source Startup Internship | Eager to Contribute to Tech Innovation .
+- 🔭 Seeking Open-Source Learnings | Eager to Contribute to Tech Innovation .
 
 - 🌱 I’m currently learning **Webrtc , Redis**
 
